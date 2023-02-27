@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWindowsHeartbeat", "MyWindowsHeartbeat\MyWindowsHeartbeat.csproj", "{8CB803D1-9DAA-4687-AEAF-F0CB7D598AA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyArpSpoof", "MyArpSpoof\MyArpSpoof.csproj", "{2BD301D5-91F7-4C3A-8C6A-38BE81372D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpPcap-vs2005", "SharpPcap\SharpPcap\SharpPcap-vs2005.csproj", "{67DFA5F8-6D82-4F58-A23F-F56A6598ABA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CB803D1-9DAA-4687-AEAF-F0CB7D598AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB803D1-9DAA-4687-AEAF-F0CB7D598AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB803D1-9DAA-4687-AEAF-F0CB7D598AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB803D1-9DAA-4687-AEAF-F0CB7D598AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD301D5-91F7-4C3A-8C6A-38BE81372D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD301D5-91F7-4C3A-8C6A-38BE81372D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD301D5-91F7-4C3A-8C6A-38BE81372D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD301D5-91F7-4C3A-8C6A-38BE81372D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67DFA5F8-6D82-4F58-A23F-F56A6598ABA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DFA5F8-6D82-4F58-A23F-F56A6598ABA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DFA5F8-6D82-4F58-A23F-F56A6598ABA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DFA5F8-6D82-4F58-A23F-F56A6598ABA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
